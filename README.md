@@ -17,4 +17,12 @@ coming to the income statement we have to calculate a number of things, excel pr
 - "CRLT + Enter" makes it easy to fill in all the different rows in the sheet if they are calculated with the same formula.
 - if we want to lock in the formula or make it an obselete reference to all the cells we can use "$" infront of column name and row number(= $H$5)
 - we can also calculate the value if they are on a different sheet in the same workbook. to lock in the value just use "$" before row value and column value.
-- 
+  Fourmula and function
+  Order of Operations:-
+  - In Excel operations, the order of operations changes "* and / are evaluated first and + and - are evaluated second", we have use parentheses to control the order.
+  - A function is such where we can pass a parameter or an argument to get a result back.
+  - In Excel, there is a formulas tab where we can find all the functions were the question can be answered. if you hover over insert function and drop down of ffunctions will be            displayed.
+  LOOK UP Functions.
+   - there are two types of ZLOOk Up functions.
+     1.) VLOOKUP functions, stands for Vertical lookup. when we structure a table, the value we want  to look up should be on left side of the table.
+     
